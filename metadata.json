@@ -1,0 +1,6 @@
+{
+  "name": "CampusTransit AI - College Bus Tracker & Fleet Command",
+  "description": "Real-time college bus tracking, student RFID attendance, driver safety profiles, route optimization, and AI delay prediction system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
